@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="channel_name">NotifyChannel</string>
+    <string name="channel_description">NotificationChannel Description</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_your_name_here">Enter Your Name Here</string>
+</resources>
